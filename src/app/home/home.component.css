@@ -1,0 +1,23 @@
+/* 
+.home-banner{
+    width: 999px;
+    height: 999px;
+    background-image: url('src/assets/images/5.jpg');
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: 100%;
+    transition: background-image .04s ease .55s;
+    z-index: 15;
+    cursor: pointer;
+}
+
+.about-bg {
+    margin-bottom: 0px;
+    height: 458px;
+}
+
+.about-bg .abouttitle h2{
+    color: black;
+    padding: 200px 0;
+} */
+

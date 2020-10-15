@@ -1,0 +1,26 @@
+.black, p {
+    color: black;
+}
+
+.pdn-right {
+    padding-right: 0px;
+    margin-top: 7%;
+    margin-bottom: 2%;
+}
+.get a:hover{
+    background-color: chartreuse;
+    color: #fff;
+}
+.accordion{
+    padding: 0 10%;
+    margin-bottom: 2%;
+}
+.accordion .get {
+    padding-left: 2%;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+
+.accordion .pdn-right {
+    margin-top: 1%;
+}

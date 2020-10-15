@@ -1,0 +1,16 @@
+.logo-image{
+    width: 6rem;
+    height: 2.9375rem;
+    background-image: url('src/assets/images/download.svg');
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: 100%;
+    transition: background-image .04s ease .55s;
+    z-index: 15;
+    cursor: pointer;
+}
+
+.active-link{
+   background-color: yellow;
+   color: black;
+}
