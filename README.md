@@ -1,6 +1,8 @@
 # DARETECH
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+## Download project
+Run 'npm install' command for installing dependency 
 
 ## Development server
 
